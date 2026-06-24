@@ -11,7 +11,20 @@
 
 **A dark, terminal-inspired personal portfolio built for AI Engineers & Researchers.**
 
-[🌐 Live Demo](https://personal-spotlight.vercel.app) • [📄 Resume](./public/Anurag_Yadav_CV.pdf) • [💼 LinkedIn](https://linkedin.com/in/anurag-yadav-16198a1ba) • [🐙 GitHub](https://github.com/AnuragYadav12)
+<p align="center">
+  <a href="https://personal-spotlight.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel">
+  </a>
+  <a href="./public/Anurag_Yadav_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-Download-red?style=for-the-badge&logo=adobeacrobatreader">
+  </a>
+  <a href="https://linkedin.com/in/anurag-yadav-16198a1ba">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/AnuragYadav12">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 </div>
 
