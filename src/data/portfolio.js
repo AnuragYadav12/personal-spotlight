@@ -66,7 +66,7 @@ export const skills = [
 
 export const experience = [
   {
-    date: "JUL 2025 – PRESENT",
+    date: "JUL 2025 – AUG 2025",
     role: "Machine Learning Intern",
     company: "CSIR – North East Institute of Science & Technology (NEIST)",
     location: "Jorhat, Assam",
