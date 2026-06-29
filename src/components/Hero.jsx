@@ -67,7 +67,7 @@ export default function Hero() {
           <span>[ SYSTEM.BOOT ]</span>
           <span style={{ color: 'var(--green)' }}>● ONLINE</span>
         </div>
-        <div style={s.subtitle}>{personal.degree.toUpperCase()} · CGPA {personal.cgpa}</div>
+        <div style={s.subtitle}>{personal.degree.toUpperCase()} · Researcher · Developer · CGPA {personal.cgpa}</div>
         <h1 style={s.name}>
           {personal.firstName}<br />
           <span style={s.nameLast}>{personal.lastName}.</span>
